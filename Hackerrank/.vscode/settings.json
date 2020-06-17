@@ -1,0 +1,17 @@
+{
+    "files.associations": {
+        "ostream": "cpp",
+        "ios": "cpp",
+        "system_error": "cpp",
+        "vector": "cpp",
+        "xiosbase": "cpp",
+        "xstring": "cpp",
+        "algorithm": "cpp",
+        "limits": "cpp",
+        "initializer_list": "cpp",
+        "xutility": "cpp",
+        "iostream": "cpp",
+        "cmath": "cpp"
+    },
+    "python.pythonPath": "C:\\Python27\\python.exe"
+}
