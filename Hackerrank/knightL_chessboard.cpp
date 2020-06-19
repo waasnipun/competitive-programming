@@ -1,61 +1,61 @@
 #include<bits/stdc++.h>
 using namespace std;
 
-class Graph 
-{ 
-    int V;    
-  
-    list<int> *adj;    
-public: 
-    Graph(int V);  
+class Graph
+{
+    int V;
 
-    void addEdge(int v, int w);  
+    list<int> *adj;
+public:
+    Graph(int V);
 
-    void BFS(int s);   
-}; 
-  
-Graph::Graph(int V) 
-{ 
-    this->V = V; 
-    adj = new list<int>[V]; 
-} 
-  
-void Graph::addEdge(int v, int w) 
-{ 
-    adj[v].push_back(w); 
-} 
-  
-void Graph::BFS(int s) 
-{ 
-    bool *visited = new bool[V]; 
-    for(int i = 0; i < V; i++) 
-        visited[i] = false; 
-  
+    void addEdge(int v, int w);
 
-    list<int> queue; 
+    void BFS(int s);
+};
 
-    visited[s] = true; 
-    queue.push_back(s); 
+Graph::Graph(int V)
+{
+    this->V = V;
+    adj = new list<int>[V];
+}
 
-    list<int>::iterator i; 
-  
-    while(!queue.empty()) 
-    { 
+void Graph::addEdge(int v, int w)
+{
+    adj[v].push_back(w);
+}
 
-        s = queue.front(); 
-        cout << s << " "; 
-        queue.pop_front(); 
+void Graph::BFS(int s)
+{
+    bool *visited = new bool[V];
+    for(int i = 0; i < V; i++)
+        visited[i] = false;
 
-        for (i = adj[s].begin(); i != adj[s].end(); ++i) 
-        { 
-            if (!visited[*i]) 
-            { 
-                visited[*i] = true; 
-                queue.push_back(*i); 
-            } 
-        } 
-    } 
-} 
+
+    list<int> queue;
+
+    visited[s] = true;
+    queue.push_back(s);
+
+    list<int>::iterator i;
+
+    while(!queue.empty())
+    {
+
+        s = queue.front();
+        cout << s << " ";
+        queue.pop_front();
+
+        for (i = adj[s].begin(); i != adj[s].end(); ++i)
+        {
+            if (!visited[*i])
+            {
+                visited[*i] = true;
+                queue.push_back(*i);
+            }
+        }
+    }
+}
 
 void print_the_grid(vector<vector<int>> grid,int m){
 	for(int i=0;i<m;i++){
@@ -98,7 +98,7 @@ int plotting(int a,int b,int x,int y,vector<vector<int>> grid,Graph g,int n){
 		else{
 			return x1,y1;
 		}
-		
+
 	}
 	if(0<=x-a && 0<=y+b && x-a<n && y+b<n){
 		x1 = x-a;
@@ -145,15 +145,15 @@ int plotting(int a,int b,int x,int y,vector<vector<int>> grid,Graph g,int n){
 
 void making_the_graph(int n){
 	vector<vector<int>> grid;
-	Graph g(n*n); 
+	Graph g(n*n);
 	int x=0,y=0;
 	grid = find_mini_moves(n);
 	for(int a=1;a<n;a++){
 		for(int b=1;b<n;b++){
 			plotting(a,b,x,y,grid,g,n);
-				
+
 		}
-		
+
 	}
 
 }

@@ -43,7 +43,7 @@ for i in range(int(r/2)):
         next+=1
 newTemp.append(0)
 newTemp = newTemp + newTemp[:int(r/2):1][:0:-1]
-four = newTemp 
+four = newTemp
 #print(four)
 ####################################################5
 temp = []
@@ -56,7 +56,7 @@ for i in range(int(r/2)):
 newTemp.append(newTemp[len(newTemp)-1])
 newTemp = newTemp + newTemp[:int(r/2):1][:0:-1]
 five = newTemp
-#print(five) 
+#print(five)
 ####################################################3
 temp = []
 newTemp = []
