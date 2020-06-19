@@ -13,57 +13,34 @@ class Node {
             right = NULL;
         }
 };
-
-class Solution {
+class tree{
     public:
-  	
   	void preOrder(Node *root) {
-		
       	if( root == NULL )
           	return;
-      
-      	std::cout << root->data << " ";
-      	
+      	cout << root->data << " ";
       	preOrder(root->left);
       	preOrder(root->right);
     }
-
-/*
-Node is defined as 
-
-class Node {
-    public:
-        int data;
-        Node *left;
-        Node *right;
-        Node(int d) {
-            data = d;
-            left = NULL;
-            right = NULL;
-        }
-};
-
-*/
-
     Node * insert(Node * root, int data) {
         if(root== NULL){
             root = Node(data);
         }
         else{
             if(root.data<Node(data).data){
-                if(root.right == NULL){
-                    root.right = Node(data);
+                if(root->right == NULL){
+                    root->right = Node(data);
                 }
                 else{
-                    insert(root.right,data);
+                    insert(root->right,data);
                 }
             }
             else{
-                if(root.left == NULL){
-                    root.left = Node(data);
+                if(root->left == NULL){
+                    root->left = Node(data);
                 }
                 else{
-                    insert(root.left,data);
+                    insert(root->left,data);
                 }
             }
         }
@@ -74,21 +51,15 @@ class Node {
 };
 
 int main() {
-  
-    Solution myTree;
+    tree myTree;
     Node* root = NULL;
-    
     int t;
     int data;
-
-    std::cin >> t;
-
+    cin >> t;
     while(t-- > 0) {
-        std::cin >> data;
+        cin >> data;
         root = myTree.insert(root, data);
     }
-  	
     myTree.preOrder(root);
-  
     return 0;
 }
