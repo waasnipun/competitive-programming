@@ -34,7 +34,7 @@ int main(){
     for(int i=1;i<=total;++i){
 	   if(dp[n][i]==1)
 	   	cout<<i<<" ";
-	}   
+	} 
 }
 
 
