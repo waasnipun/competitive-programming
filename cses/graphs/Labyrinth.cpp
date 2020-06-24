@@ -7,6 +7,7 @@ using namespace std;
 vector<vector<int>> visited;
 vector<char> path;
 vector<vector<char>> paths;
+vector<pair<int,int>> moves = {{-1,0},{0,-1},{1,0},{0,1}};
 
 void miniPaths(vector<vector<char>>& d){
    int row = d.size(),column;
@@ -29,7 +30,6 @@ void miniPaths(vector<vector<char>>& d){
    }
 }
 void dfs(int n,int m,vector<vector<char>>& grid,int x,int y){
-  vector<pair<int,int>> moves = {{-1,0},{0,-1},{1,0},{0,1}};
   vector<char> directions = {'U','L','D','R'};
   visited[x][y] = 1;
   for(int i=0;i<4;i++){
@@ -65,11 +65,9 @@ int main(){
             cin>>grid[i][j];
             if(grid[i][j]=='A'){
               startX = i;startY = j;
-            }      
+            }       
         }
-   }
-   int output = 0;
+   };
    dfs(a,b,grid,startX,startY);
-   int n = path.size();
    miniPaths(paths);
 }
