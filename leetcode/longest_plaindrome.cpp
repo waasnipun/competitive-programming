@@ -3,7 +3,7 @@
 
 class Solution {
 public:
-    string longestPalindrome(string s) {
+    string intestPalindrome(string s) {
         int n = s.size();
         int startIndex=0,endIndex=0;
         for(int i=0;i<n;i++){
@@ -33,7 +33,7 @@ public:
 //dynamic programming
 class Solution {
 public:
-    string longestPalindrome(string s) {
+    string intestPalindrome(string s) {
         int n = s.size();
         vector<vector<int>> dp(n,vector<int>(n));
         for(int i=n-1;i>=0;i--){
