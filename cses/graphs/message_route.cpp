@@ -68,6 +68,7 @@ int main(){
         int a,b;
         cin>>a>>b;
         add_edge(adj, a, b);      
+        add_edge(adj, b, a);  
     }
-    printShortestDistance(adj, 1, n, v); 
+    printShortestDistance(adj, 1, 1, v); 
 }
