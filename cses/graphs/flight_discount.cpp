@@ -20,11 +20,9 @@ void dijkstra(ll s, vector<ll> & d, vector<ll> & p,vector<vector<pair<ll, ll>>>&
         q.pop();
         if (d_v != d[v])
             continue;
-
         for (auto edge : adj[v]) {
             ll to = edge.first;
             ll len = edge.second;
-
             if (d[v] + len < d[to]) {
                 d[to] = d[v] + len;
                 p[to] = v;

@@ -62,8 +62,8 @@ int main(){
       cout<<"NO"<<endl;
    }
    else{
-      cout<<"YES"<<endl;
-      cout<<distance[endX][endY]<<endl;
-      cout<<path[endX][endY]<<endl;
+      cout<<"YES\n";
+      cout<<distance[endX][endY]<<"\n";
+      cout<<path[endX][endY];
    }
 }
