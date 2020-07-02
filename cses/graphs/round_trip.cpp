@@ -26,8 +26,8 @@ void dfs(int n,map<int,vector<int>>& graph,vector<int>& visited,vector<int>& pos
     	return;
     	}
     if(visited[nextNode]==0 && answerFound ==false){
-		dfs(nextNode,graph,visited,pos);
-		path.pop_back();
+		  dfs(nextNode,graph,visited,pos);
+		  path.pop_back();
     }
  }   
 }
