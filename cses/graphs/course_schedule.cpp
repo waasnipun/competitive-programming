@@ -7,7 +7,7 @@ using namespace std;
 #define int long long int
 
 map<int,bool> blackset;
-bool isFalse = false;
+bool isFalse = false;//for detecting cycles
 void topological_sort(map<int,vector<int>>& adj,vector<int>&visited,vector<int>& stack,int start){
 	visited[start] = 1;
 	for(int i:adj[start]){
@@ -51,8 +51,5 @@ void solution(){
 signed main(){
 	ios_base::sync_with_stdio(false);
     cin.tie(NULL);
-    // #ifndef ONLINE_JUDGE
-    //     freopen("C:\\Users\\Nipun\\Documents\\My Projects\\Competitive Progamming\\cses\\input.txt","r",stdin);
-    // #endif
     solution();
 }
