@@ -8,7 +8,20 @@ using namespace std;
 
 //solution starts here
 void solution(){
-
+	int b;
+	cin>>b;
+	vector<int> arr(b,0);
+	int output = 0;
+	for(int i=0;i<b;i++){
+		cin>>arr[i];
+	}
+	int a = arr[0];
+	for(int i=1;i<b;i++){
+		if(a>arr[i])output+=(arr[i]-a);
+		else a = arr[i];
+	}
+	cout<<-output<<endl;
+	
 }
 
 signed main(){

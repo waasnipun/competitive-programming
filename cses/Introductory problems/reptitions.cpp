@@ -8,7 +8,22 @@ using namespace std;
 
 //solution starts here
 void solution(){
-
+	string a;
+	cin>>a;
+	int output = 0;
+	char c = 'W';
+	int count = 0;
+	for(auto i:a){
+		if(i!=c){
+			c = i;
+			count = 1;
+		}
+		else{
+			count++;
+		}
+		output = max(output,count);
+	}
+	cout<<output<<endl;
 }
 
 signed main(){
