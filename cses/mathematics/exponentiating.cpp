@@ -10,12 +10,11 @@ using namespace std;
 int cal(int a,int b){
     if(b==0)
         return 1;
-    else if(b%2==0){
-        return cal(a,b/2)*cal(a,b/2);
-    }
-    else{
-        return a*cal(a,b/2)*cal(a,b/2);
-    }
+    int t = cal(a,b/2);
+    t = (t*t)%mod;
+    if(b%2==1)
+        t = (a*t)%mod;
+    return t;
 }
 void solution(){
 	int n;
