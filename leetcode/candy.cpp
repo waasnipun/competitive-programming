@@ -5,7 +5,6 @@ using namespace std;
 #define INF 1e18
 #define int long long int
 const int mxn = 1e6, mod = 1e9+7;
-
 //solution starts here
 void solution(){
 

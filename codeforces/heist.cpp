@@ -8,7 +8,14 @@ const int mxn = 1e6, mod = 1e9+7;
 
 //solution starts here
 void solution(){
-
+	int n;
+	cin>>n;
+	vector<int> arr(n,0);
+	for(int i=0;i<n;i++){
+		cin>>arr[i];
+	}
+	sort(arr.begin(), arr.end());
+	cout<<arr[n-1]-arr[0]+1-arr.size()<<endl;
 }
 
 signed main(){
