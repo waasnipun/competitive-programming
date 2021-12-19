@@ -8,8 +8,8 @@ int root(int i){
     while (i != id[i]){
         id[i] = id[id[i]];
         i = id[i];
-    } 
-    return i;    
+    }
+    return i;
 }
 bool connected(int p,int q){
     return root(p) == root(q);

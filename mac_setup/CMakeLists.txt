@@ -1,0 +1,23 @@
+cmake_minimum_required(VERSION 3.20)
+project(competitive_programming)
+
+set(CMAKE_CXX_STANDARD 14)
+
+include_directories(/usr/local/include)
+
+add_executable(test_temp hackerrank/test_temp.cpp)
+add_executable(weird_algorithm CSES/Introductory/weird_algorithm.cpp)
+add_executable(missing_number CSES/Introductory/missing_number.cpp)
+add_executable(repetitions CSES/Introductory/repetitions.cpp)
+add_executable(increasin_array CSES/Introductory/increasin_array.cpp)
+add_executable(permutations CSES/Introductory/permutations.cpp)
+add_executable(two_nights CSES/Introductory/two_nights.cpp)
+add_executable(two_sets CSES/Introductory/two_sets.cpp)
+add_executable(bit_strings CSES/Introductory/bit_strings.cpp)
+add_executable(trailing_zeros CSES/Introductory/trailing_zeros.cpp)
+add_executable(coin_piles CSES/Introductory/coin_piles.cpp)
+add_executable(palindrome_reorder CSES/Introductory/palindrome_reorder.cpp)
+add_executable(gray_code CSES/Introductory/gray_code.cpp)
+add_executable(towers_of_hanoi CSES/Introductory/towers_of_hanoi.cpp)
+add_executable(main main.cpp)
+add_executable(quick_code quick_code.cpp)

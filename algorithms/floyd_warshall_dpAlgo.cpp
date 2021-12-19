@@ -19,10 +19,6 @@ void floydwarshall(vector<vector<ll>>& adj,ll n){
 
 //test
 int main(){
-	#ifndef ONLINE_JUDGE
-        freopen("C:\\Users\\Nipun\\Documents\\My Projects\\Competitive Progamming\\cses\\input.txt","r",stdin);
-        //freopen("C:\\Users\\Nipun\\Documents\\My Projects\\Competitive Progamming\\cses\\output.txt","w",stdout);
-    #endif
     ll n,m,q;
     cin>>n>>m>>q;
     vector<vector<ll>> adj(n,vector<ll>(n,INF));//keep everythinh INF otherthan diagonal
