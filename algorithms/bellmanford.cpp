@@ -6,7 +6,7 @@ using namespace std;
 #define INF 1e18
 #define int long long int
 
-void bellmanford(vector<tuple<int,int,int>>& graph,int n,vector<int>& distance,vector<int>& count){
+void bellmanford(vector<tuple<int,int,int>> & graph,int n,vector<int>& distance,vector<int>& count){
 	for(int i=0;i<n;i++){
 		for(auto e:graph){
 			int a,b,w;

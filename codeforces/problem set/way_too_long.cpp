@@ -8,8 +8,19 @@ const int mxn = 1e6, mod = 1e9+7;
 
 //solution starts here
 void solution(){
-    
-
+	int n;
+	cin>>n;
+	while(n--){
+		string s;
+		cin>>s;
+		int count = (int)s.size();
+		if(count>10){
+			cout<<s[0]<<count-2<<s[count-1]<<endl;
+		}
+		else{
+			cout<<s<<endl;
+		}
+	}
 }
 
 signed main(){

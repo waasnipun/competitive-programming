@@ -2,14 +2,17 @@
 using namespace std;
 
 #define pb push_back
-#define INF 1e18
-#define int long long int
+#define INF INT_MAX
+
+typedef long long int;
+
 const int mxn = 1e6, mod = 1e9+7;
 
 //solution starts here
 void solution(){
-    
-
+	int x;
+	cin>>x;
+	cout<<x;
 }
 
 signed main(){

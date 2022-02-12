@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="Competitive_Progamming" targetName="template" />
+      <config projectName="Competitive_Progamming" targetName="cpp_maps" />
+      <config projectName="Competitive_Progamming" targetName="facry" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8ef4a5dd-592e-4df9-8bd0-8f72f19f1f76" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.autocp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Google kickstart/kickstart-round D-2020/a" beforeDir="false" afterPath="$PROJECT_DIR$/Google kickstart/kickstart-round D-2020/a" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithms/bellmanford.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/algorithms/bellmanford.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/codeforces/Short Substrings.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/codeforces/ShortSubstrings.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/codeforces/ShortSubstrings.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/codeforces/alarm_clock.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/codeforces/alarm_clock.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/codeforces/bearandthreeballs.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/codeforces/binary_median.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/codeforces/binary_median.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/codeforces/domino.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/codeforces/domino.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/codeforces/dragons.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/codeforces/elimination" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/codeforces/elimination.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/codeforces/even_array.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/codeforces/even_array.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/codeforces/fraction.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/codeforces/good_string.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/codeforces/heist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/codeforces/heist.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/codeforces/helpfulmaths.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/codeforces/helpfulmaths.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/codeforces/house.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/codeforces/house.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/codeforces/kickstarrt1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/codeforces/laddu.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/codeforces/laddu.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/codeforces/laddu.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/codeforces/naruto.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/codeforces/next_round.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/codeforces/next_round.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/codeforces/odd_selection.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/codeforces/odd_selection.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/codeforces/problem set/A/solution" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/codeforces/problem set/A/solution.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/codeforces/problem set/B/solution.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/codeforces/problem set/C/solution.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/codeforces/problem set/D/solution.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/codeforces/problem set/E/solution.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/codeforces/problem set/F/solution.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/codeforces/problem set/copy.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/codeforces/problem set/template.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/codeforces/problemSet" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/codeforces/problemSet.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/codeforces/round_628.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/codeforces/run.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/codeforces/runn.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/codeforces/social_distance.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/codeforces/social_distance.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/codeforces/soe_perm.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/codeforces/soe_perm.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/codeforces/stacks.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/codeforces/stacks.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/codeforces/string_task.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/codeforces/string_task.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/codeforces/sublime.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/codeforces/sublime.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/codeforces/taxi.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/codeforces/taxi.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/codeforces/two_arrays.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/codeforces/two_arrays.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/codeforces/unstable_array.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/codeforces/unstable_array.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/codeforces/wiggle_walk.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/codeforces/workout.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/codeforces/workout.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data structures/cpp_maps.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/data structures/cpp_maps.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/template.cpp" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CPTemplate" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="22o5pUgVrmJbPlvatLl4GT6Fgs2" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="RunOnceActivity.cidr.known.project.marker" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="cidr.known.project.marker" value="true" />
+    <property name="cmake.loaded.for.project" value="true" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.build" />
+  </component>
+  <component name="RunManager" selected="CMake Application.template">
+    <configuration default="true" type="GradleAppRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.gradle.execution.GradleNativeBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="yeyeye" type="AutoCp" factoryName="AutoCp" show_console_on_std_err="false" show_console_on_std_out="false">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="projectPathOnTarget" />
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <option name="solutionFilePath" value="$PROJECT_DIR$/yeyeye.cpp" />
+      <method v="2" />
+    </configuration>
+    <configuration name="cpp_maps" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Competitive_Progamming" TARGET_NAME="cpp_maps" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Competitive_Progamming" RUN_TARGET_NAME="cpp_maps">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="facry" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Competitive_Progamming" TARGET_NAME="facry" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Competitive_Progamming" RUN_TARGET_NAME="facry">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="template" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Competitive_Progamming" TARGET_NAME="template" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Competitive_Progamming" RUN_TARGET_NAME="template">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="AutoCp Solution.yeyeye" />
+      <item itemvalue="CMake Application.cpp_maps" />
+      <item itemvalue="CMake Application.facry" />
+      <item itemvalue="CMake Application.template" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8ef4a5dd-592e-4df9-8bd0-8f72f19f1f76" name="Changes" comment="" />
+      <created>1640491281476</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1640491281476</updated>
+      <workItem from="1640491283094" duration="111000" />
+      <workItem from="1640491396344" duration="42000" />
+      <workItem from="1640493328545" duration="33000" />
+      <workItem from="1641529009531" duration="63000" />
+      <workItem from="1642421181736" duration="625000" />
+      <workItem from="1642421852352" duration="252000" />
+      <workItem from="1642422120137" duration="39000" />
+      <workItem from="1642423979596" duration="155000" />
+      <workItem from="1642424136918" duration="5000" />
+      <workItem from="1642424344396" duration="121000" />
+      <workItem from="1642424477251" duration="26000" />
+      <workItem from="1642424513576" duration="778000" />
+      <workItem from="1642425301646" duration="74000" />
+      <workItem from="1642425542078" duration="58000" />
+      <workItem from="1642426111124" duration="35000" />
+      <workItem from="1643036139313" duration="4000" />
+      <workItem from="1643163985470" duration="27000" />
+      <workItem from="1643458972158" duration="8000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

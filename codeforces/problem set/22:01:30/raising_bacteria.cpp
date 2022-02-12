@@ -8,8 +8,15 @@ const int mxn = 1e6, mod = 1e9+7;
 
 //solution starts here
 void solution(){
-    
-
+	int n;
+	cin>>n;
+	int count = 0;
+	while(n){
+		if(n&1)
+			count++;
+		n = n>>1;
+	}	
+	cout<<count<<endl;
 }
 
 signed main(){

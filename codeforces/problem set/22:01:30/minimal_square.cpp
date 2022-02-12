@@ -8,8 +8,13 @@ const int mxn = 1e6, mod = 1e9+7;
 
 //solution starts here
 void solution(){
-    
-
+	int t;
+	cin>>t;
+	while(t--){
+		int a,b;
+		cin>>a>>b;
+		cout<<max(pow(min(a,b)*2,2),pow(max(a,b),2))<<endl;
+	}
 }
 
 signed main(){
