@@ -17,78 +17,27 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8ef4a5dd-592e-4df9-8bd0-8f72f19f1f76" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.autocp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Google kickstart/kickstart-round D-2020/a" beforeDir="false" afterPath="$PROJECT_DIR$/Google kickstart/kickstart-round D-2020/a" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithms/bellmanford.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/algorithms/bellmanford.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codeforces/Short Substrings.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/codeforces/ShortSubstrings.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/codeforces/ShortSubstrings.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/codeforces/alarm_clock.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/codeforces/alarm_clock.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/codeforces/bearandthreeballs.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/codeforces/binary_median.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/codeforces/binary_median.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/codeforces/domino.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/codeforces/domino.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/codeforces/dragons.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/codeforces/elimination" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/codeforces/elimination.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/codeforces/even_array.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/codeforces/even_array.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/codeforces/fraction.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/codeforces/good_string.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/codeforces/heist" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/codeforces/heist.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/codeforces/helpfulmaths.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/codeforces/helpfulmaths.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/codeforces/house.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/codeforces/house.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/codeforces/kickstarrt1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/codeforces/laddu.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/codeforces/laddu.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/codeforces/laddu.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/codeforces/naruto.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/codeforces/next_round.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/codeforces/next_round.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/codeforces/odd_selection.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/codeforces/odd_selection.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/codeforces/problem set/A/solution" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/codeforces/problem set/A/solution.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/codeforces/problem set/B/solution.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/codeforces/problem set/C/solution.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/codeforces/problem set/D/solution.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/codeforces/problem set/E/solution.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/codeforces/problem set/F/solution.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/codeforces/problem set/copy.sh" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/codeforces/problem set/template.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/codeforces/problemSet" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/codeforces/problemSet.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/codeforces/round_628.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/codeforces/run.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/codeforces/runn.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/codeforces/social_distance.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/codeforces/social_distance.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/codeforces/soe_perm.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/codeforces/soe_perm.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/codeforces/stacks.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/codeforces/stacks.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/codeforces/string_task.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/codeforces/string_task.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/codeforces/sublime.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/codeforces/sublime.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/codeforces/taxi.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/codeforces/taxi.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/codeforces/two_arrays.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/codeforces/two_arrays.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/codeforces/unstable_array.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/codeforces/unstable_array.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/codeforces/wiggle_walk.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/codeforces/workout.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/codeforces/workout.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data structures/cpp_maps.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/data structures/cpp_maps.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/template.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/template.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EOPIP/CHAP 1/count_ones_int.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EOPIP/CHAP 1/count_ones_int.py:tests" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Google kickstart/practice_round_2022/centauri_prime" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Google kickstart/practice_round_2022/centauri_prime.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Google kickstart/practice_round_2022/centauri_prime.cpp:tests" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Google kickstart/practice_round_2022/h-index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Google kickstart/practice_round_2022/h-index.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Google kickstart/practice_round_2022/h-index.cpp:tests" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/codeforces/problem set/22:02:24/magnets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/codeforces/problem set/22:02:24/magnets.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/codeforces/problem set/22:02:24/magnets.cpp:tests" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/codeforces/problem set/22:02:24/test.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/codeforces/problem set/22:02:26/bad_ugly_nnumbers" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/codeforces/problem set/22:02:26/bad_ugly_nnumbers.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/codeforces/problem set/22:02:26/bad_ugly_nnumbers.cpp:tests" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cses/Algoritmit ongelmanratkaisussa/two_sets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cses/Algoritmit ongelmanratkaisussa/two_sets.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cses/Algoritmit ongelmanratkaisussa/two_sets.cpp:tests" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Miscelleneous/test" beforeDir="false" afterPath="$PROJECT_DIR$/Miscelleneous/test" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Miscelleneous/test.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Miscelleneous/test.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Miscelleneous/test.cpp:tests" beforeDir="false" afterPath="$PROJECT_DIR$/Miscelleneous/test.cpp:tests" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
